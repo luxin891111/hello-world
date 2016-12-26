@@ -1,2 +1,3 @@
 # hello-world
-github hello-world project
+Hello, everyone!
+Welcom here!
